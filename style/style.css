@@ -2,36 +2,50 @@
 
 #header1 {
     color: green;
-}
-
-/* This is for the second heading */
-#header2 {
     text-align: center;
-    border-style: solid;
-} 
-
-.class1 {
-    color: pink;
-    background-color: rgba(1, 122, 5, 0.51);
+    background-color: rgba(66, 8, 8, 0.555);
+}
+.s1 {
+    background-color: brown;
+    padding: 70px;
+    text-align: center;
+    font-size: 25px;
 }
 
 * {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.div {
-    background-color: orange;
-    border-style: solid;
-    margin: 50px;
-    padding: 25px;
+.nav {
+    text-align: center;
+    margin-top: 20px;
 }
 
-#smcc_logo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.nav1 {
+    margin-inline: 20px;
+    color: green;
+}
+.nav2 {
+    margin-inline: 20px;
+    color: green;
+}
+.nav3 {
+    margin-inline: 20px;
+    color: green;
+}
+.nav4 {
+    margin-inline: 20px;
+    color: green;
+}
+.p1 {
+    color: brown;
+   margin-left: 30px;
+
+}
+#page-footer{
+    text-align: center;
 }
 
-#smcc_logo img {
-    width: 20%;
+#body {
+    background-color: rgba(139, 107, 17, 0.596);
 }
